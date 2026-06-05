@@ -130,10 +130,10 @@ npm run dev
 
 ## 🌐 Deploy
 
-Proyecto desplegado en:
+Proyecto desplegado en vercel:
 
-[Agregar URL de Vercel o Netlify]
+https://donut-love-alpha.vercel.app/
 
 ## 👩‍💻 Autor
 
-Desarrollado por Beatriz Escobar como proyecto final de React.
+Desarrollado por Liliana Beatriz Escobar como proyecto final de React.
